@@ -1,0 +1,521 @@
+Student_id,Student_name,Age,City,Course_name,Instructor,Course_price,Enrollment_date,Watch_hours,Completion_rate,Rating,Device,Payment_status
+8270,Student_0,18,Bhopal,"JEE Advanced Mechanics","Vivek Singh",1999,2024-08-02,23.64,0.30,2.80,Unknown,Paid
+1860,Student_1,19,Unknown,"Biology NEET Ultimate","Vivek Singh",2999,2024-05-29,8.82,0.45,2.60,Laptop,Paid
+6390,Student_2,20,Patna,"Organic Chemistry Mastery","Alakh Pandey",3001,2024-03-23,29.47,0.47,3.80,Laptop,Paid
+6191,Student_3,19,Chandigarh,"NEET Physics Crash Course","Rohit Mishra",2999,2024-04-19,17.44,0.38,3.00,Mobile,Paid
+6734,Student_4,17,Chandigarh,"Class 12 Board Physics","Anjali Sharma",3999,2024-10-01,13.98,0.53,5.00,Tablet,Paid
+7265,Student_5,17,Mumbai,"Class 10 Science Foundation","Prateek Maheshwari",3001,2024-07-19,31.36,0.91,3.90,Tablet,Paid
+1466,Student_6,17,Kota,"Mathematics for JEE Mains","Amit Gupta",3499,2024-10-10,22.21,1.00,2.80,Mobile,Paid
+5426,Student_7,20,Jaipur,"Class 10 Science Foundation","Anjali Sharma",1999,2024-06-21,25.49,0.68,4.20,Mobile,Paid
+6578,Student_8,16,Unknown,"Class 10 Science Foundation","Vivek Singh",3999,2024-11-22,17.11,0.57,4.70,Tablet,Paid
+9322,Student_9,18,Bhopal,"Physics Wallah Rank Booster","Vivek Singh",2499,2024-07-24,20.29,0.85,4.40,Laptop,Pending
+2685,Student_10,17,Mumbai,"NEET Physics Crash Course","Anjali Sharma",2499,2024-03-03,36.50,0.06,2.70,Laptop,Paid
+1769,Student_11,18,Jaipur,"Physics Wallah Rank Booster","Vivek Singh",1999,2024-03-13,27.80,0.39,4.70,Tablet,Paid
+7949,Student_12,20,Chandigarh,"NEET Physics Crash Course","Rohit Mishra",3499,2024-09-07,10.23,0.07,4.50,Laptop,Paid
+3433,Student_13,20,Patna,"Biology NEET Ultimate","Alakh Pandey",3999,2024-05-03,27.58,0.38,2.90,Mobile,Paid
+6311,Student_14,17,Indore,"Biology NEET Ultimate","Prateek Maheshwari",2999,2024-04-30,39.81,0.46,2.60,Laptop,Pending
+6051,Student_15,20,Bhopal,"Class 12 Board Physics","Alakh Pandey",1999,2024-10-01,20.21,1.00,3.90,Laptop,Paid
+7420,Student_16,18,Mumbai,"NEET Physics Crash Course","Prateek Maheshwari",3499,2024-04-29,30.98,0.00,2.90,Unknown,Paid
+2184,Student_17,17,Delhi,"JEE Advanced Mechanics","Prateek Maheshwari",2999,2024-11-12,16.51,0.55,4.60,Unknown,Paid
+5555,Student_18,19,Jaipur,"Organic Chemistry Mastery","Alakh Pandey",2499,2024-06-12,23.63,0.80,3.40,Unknown,Pending
+4385,Student_19,18,Indore,"Class 12 Board Physics","Anjali Sharma",2499,2024-10-12,35.90,0.75,4.80,Laptop,Paid
+7396,Student_20,17,Bhopal,"Class 12 Board Physics","Prateek Maheshwari",2999,2024-09-21,27.19,1.00,3.90,Tablet,Refunded
+9666,Student_21,19,Chandigarh,"JEE Advanced Mechanics","Alakh Pandey",1999,2024-11-15,37.89,0.69,3.00,Mobile,Paid
+3558,Student_22,17,Kota,"Organic Chemistry Mastery","Prateek Maheshwari",2499,2024-06-09,29.25,0.74,3.70,Laptop,Paid
+8849,Student_23,17,Jaipur,"Physics Wallah Rank Booster","Amit Gupta",3999,2024-11-03,47.19,0.19,3.90,Tablet,Paid
+3047,Student_24,17,Chandigarh,"Organic Chemistry Mastery","Anjali Sharma",3001,2024-03-29,9.35,0.40,4.40,Laptop,Refunded
+3747,Student_25,17,Bhopal,"Physics Wallah Rank Booster","Rohit Mishra",2999,2024-05-21,22.83,0.20,4.50,Mobile,Paid
+1189,Student_26,17,Jaipur,"Biology NEET Ultimate","Prateek Maheshwari",2999,2024-07-21,14.15,0.79,3.20,Laptop,Paid
+3734,Student_27,18,Unknown,"Class 10 Science Foundation","Amit Gupta",2499,2024-11-04,14.84,0.74,3.00,Mobile,Paid
+4005,Student_28,19,Indore,"Biology NEET Ultimate","Rohit Mishra",1999,2024-08-14,14.93,0.73,2.50,Laptop,Paid
+5658,Student_29,19,Bhopal,"Biology NEET Ultimate","Rohit Mishra",3999,2024-11-29,26.68,0.43,4.20,Mobile,Paid
+2899,Student_30,19,Unknown,"Class 10 Science Foundation","Prateek Maheshwari",1999,2024-08-09,27.26,0.41,2.70,Laptop,Pending
+8734,Student_31,19,Varanasi,"Organic Chemistry Mastery","Alakh Pandey",3499,2024-02-10,29.27,0.70,3.60,Mobile,Paid
+2267,Student_32,18,Mumbai,"Class 12 Board Physics","Prateek Maheshwari",3499,2024-07-14,13.77,0.48,4.00,Unknown,Paid
+2528,Student_33,17,Indore,"Organic Chemistry Mastery","Amit Gupta",3001,2024-03-08,21.76,0.39,3.70,Laptop,Paid
+4556,Student_34,17,Jaipur,"Physics Wallah Rank Booster","Rohit Mishra",2499,2024-09-20,15.36,0.52,3.30,Laptop,Paid
+4890,Student_35,18,Kota,"JEE Advanced Mechanics","Prateek Maheshwari",2499,2024-01-02,34.36,0.48,3.10,Tablet,Paid
+9838,Student_36,16,Chandigarh,"Physics Wallah Rank Booster","Alakh Pandey",2499,2024-12-26,16.30,0.43,4.10,Tablet,Paid
+6393,Student_37,18,Delhi,"JEE Advanced Mechanics","Prateek Maheshwari",3001,2024-05-04,22.86,0.34,4.00,Mobile,Paid
+9792,Student_38,17,Chandigarh,"Biology NEET Ultimate","Anjali Sharma",3499,2024-04-19,30.60,0.76,3.30,Laptop,Paid
+9433,Student_39,19,Jaipur,"Class 10 Science Foundation","Alakh Pandey",1999,2024-03-26,18.84,1.00,4.80,Mobile,Paid
+8513,Student_40,18,Chandigarh,"Biology NEET Ultimate","Amit Gupta",3001,2024-04-29,31.94,0.64,4.60,Unknown,Paid
+3612,Student_41,18,Mumbai,"NEET Physics Crash Course","Rohit Mishra",3001,2024-05-06,40.96,0.71,3.10,Tablet,Paid
+8041,Student_42,17,Bhopal,"Organic Chemistry Mastery","Prateek Maheshwari",1999,2024-09-11,26.90,0.78,3.10,Mobile,Pending
+7235,Student_43,16,Unknown,"JEE Advanced Mechanics","Alakh Pandey",2499,2024-07-01,34.02,0.74,3.80,Mobile,Refunded
+6486,Student_44,20,Delhi,"Physics Wallah Rank Booster","Anjali Sharma",3999,2024-01-16,4.27,0.44,4.40,Tablet,Refunded
+8099,Student_45,20,Lucknow,"Class 10 Science Foundation","Alakh Pandey",1999,2024-03-02,20.71,1.00,2.60,Laptop,Paid
+1775,Student_46,17,Jaipur,"JEE Advanced Mechanics","Vivek Singh",3499,2024-06-06,26.85,0.46,4.20,Mobile,Paid
+9226,Student_47,18,Patna,"Physics Wallah Rank Booster","Anjali Sharma",2999,2024-09-24,14.47,0.81,4.10,Tablet,Paid
+4152,Student_48,16,Lucknow,"Organic Chemistry Mastery","Amit Gupta",2999,2024-02-04,27.08,0.78,3.10,Laptop,Paid
+2585,Student_49,16,Chandigarh,"Biology NEET Ultimate","Rohit Mishra",3001,2024-09-23,35.60,0.16,4.20,Unknown,Paid
+4943,Student_50,17,Jaipur,"Organic Chemistry Mastery","Amit Gupta",2999,2024-03-04,6.20,0.56,4.90,Tablet,Paid
+8555,Student_51,17,Unknown,"Mathematics for JEE Mains","Prateek Maheshwari",3999,2024-02-19,13.11,0.66,2.60,Mobile,Paid
+4073,Student_52,18,Varanasi,"NEET Physics Crash Course","Alakh Pandey",2499,2024-09-11,25.49,0.68,3.30,Unknown,Paid
+2021,Student_53,18,Unknown,"Mathematics for JEE Mains","Vivek Singh",3499,2024-05-28,29.60,0.73,3.60,Laptop,Pending
+4843,Student_54,17,Patna,"Class 10 Science Foundation","Anjali Sharma",3999,2024-11-20,32.38,0.84,4.70,Laptop,Paid
+8989,Student_55,19,Delhi,"JEE Advanced Mechanics","Anjali Sharma",3499,2024-10-30,26.11,0.65,4.90,Tablet,Refunded
+7873,Student_56,20,Unknown,"Class 10 Science Foundation","Alakh Pandey",3499,2024-10-02,29.62,0.74,3.60,Tablet,Paid
+6675,Student_57,18,Kota,"Biology NEET Ultimate","Vivek Singh",2499,2024-12-22,34.03,0.64,4.40,Tablet,Paid
+1161,Student_58,16,Varanasi,"Physics Wallah Rank Booster","Alakh Pandey",3001,2024-06-20,20.86,0.40,3.80,Laptop,Paid
+5297,Student_59,17,Lucknow,"Organic Chemistry Mastery","Prateek Maheshwari",2999,2024-07-19,18.91,0.66,3.80,Unknown,Paid
+1995,Student_60,16,Bhopal,"Mathematics for JEE Mains","Amit Gupta",2499,2024-11-19,23.31,0.84,3.20,Laptop,Pending
+8629,Student_61,17,Mumbai,"Class 12 Board Physics","Anjali Sharma",3999,2024-02-04,26.99,0.93,3.00,Mobile,Refunded
+2016,Student_62,16,Kota,"Mathematics for JEE Mains","Prateek Maheshwari",3001,2024-08-03,18.42,0.78,3.70,Laptop,Paid
+8869,Student_63,18,Varanasi,"Biology NEET Ultimate","Amit Gupta",3999,2024-03-05,21.06,0.98,3.90,Mobile,Paid
+7439,Student_64,17,Bhopal,"Mathematics for JEE Mains","Prateek Maheshwari",3001,2024-01-08,28.98,0.75,2.60,Unknown,Pending
+8892,Student_65,17,Bhopal,"Biology NEET Ultimate","Vivek Singh",3999,2024-10-27,26.58,0.87,4.80,Tablet,Paid
+7863,Student_66,17,Jaipur,"Class 12 Board Physics","Anjali Sharma",2499,2024-12-08,23.15,0.88,2.90,Tablet,Refunded
+8916,Student_67,17,Varanasi,"Class 10 Science Foundation","Alakh Pandey",3001,2024-11-27,7.59,0.59,3.10,Laptop,Paid
+9529,Student_68,17,Delhi,"Organic Chemistry Mastery","Alakh Pandey",3001,2024-03-16,24.96,0.83,3.80,Tablet,Paid
+1878,Student_69,18,Chandigarh,"JEE Advanced Mechanics","Amit Gupta",3499,2024-06-22,15.30,0.41,4.30,Unknown,Paid
+5887,Student_70,16,Patna,"Physics Wallah Rank Booster","Rohit Mishra",3499,2024-02-16,34.83,0.74,2.70,Tablet,Paid
+5859,Student_71,17,Patna,"JEE Advanced Mechanics","Vivek Singh",1999,2024-01-15,21.91,0.79,3.30,Laptop,Paid
+7331,Student_72,17,Lucknow,"Class 10 Science Foundation","Amit Gupta",3999,2024-12-26,15.04,0.91,4.90,Unknown,Paid
+9571,Student_73,18,Lucknow,"Physics Wallah Rank Booster","Rohit Mishra",3499,2024-05-26,24.38,0.86,3.20,Mobile,Paid
+9684,Student_74,17,Patna,"Mathematics for JEE Mains","Prateek Maheshwari",1999,2024-01-26,37.71,0.92,3.30,Laptop,Paid
+8208,Student_75,16,Unknown,"Class 12 Board Physics","Vivek Singh",3499,2024-11-03,31.31,0.63,4.60,Mobile,Paid
+6276,Student_76,16,Delhi,"Class 12 Board Physics","Prateek Maheshwari",3999,2024-04-02,27.20,0.56,2.60,Unknown,Paid
+3062,Student_77,20,Unknown,"NEET Physics Crash Course","Anjali Sharma",3001,2024-08-19,11.74,0.58,3.70,Laptop,Paid
+1064,Student_78,17,Unknown,"Class 10 Science Foundation","Vivek Singh",2999,2024-01-21,41.22,0.72,3.40,Laptop,Paid
+9006,Student_79,18,Mumbai,"Class 10 Science Foundation","Rohit Mishra",3999,2024-11-02,18.78,0.20,3.30,Unknown,Paid
+3568,Student_80,20,Indore,"Organic Chemistry Mastery","Anjali Sharma",2499,2024-02-07,34.34,0.98,3.20,Tablet,Pending
+6463,Student_81,16,Chandigarh,"JEE Advanced Mechanics","Alakh Pandey",3499,2024-10-02,21.75,0.66,2.70,Laptop,Refunded
+3027,Student_82,20,Mumbai,"Class 10 Science Foundation","Rohit Mishra",3499,2024-06-05,33.38,0.55,3.70,Laptop,Paid
+3695,Student_83,18,Jaipur,"Class 10 Science Foundation","Amit Gupta",3001,2024-06-27,38.07,0.02,2.60,Mobile,Paid
+6258,Student_84,16,Indore,"Mathematics for JEE Mains","Alakh Pandey",2499,2024-05-11,31.48,0.64,4.50,Tablet,Refunded
+6618,Student_85,17,Indore,"Mathematics for JEE Mains","Alakh Pandey",3001,2024-11-06,32.56,0.60,3.50,Mobile,Pending
+7736,Student_86,19,Varanasi,"Physics Wallah Rank Booster","Amit Gupta",2499,2024-12-13,24.02,0.43,3.60,Mobile,Paid
+1391,Student_87,18,Delhi,"Biology NEET Ultimate","Vivek Singh",2999,2024-01-28,20.66,0.48,4.70,Tablet,Paid
+6892,Student_88,18,Delhi,"Biology NEET Ultimate","Alakh Pandey",3499,2024-09-16,26.38,0.64,4.10,Tablet,Paid
+4561,Student_89,17,Indore,"NEET Physics Crash Course","Rohit Mishra",3499,2024-03-16,21.60,0.50,2.50,Unknown,Paid
+7184,Student_90,19,Unknown,"Biology NEET Ultimate","Anjali Sharma",2999,2024-03-07,49.67,0.79,4.90,Tablet,Paid
+4099,Student_91,17,Varanasi,"Organic Chemistry Mastery","Alakh Pandey",1999,2024-12-07,15.08,0.46,3.10,Laptop,Paid
+7278,Student_92,19,Chandigarh,"NEET Physics Crash Course","Rohit Mishra",3001,2024-07-12,35.02,0.69,2.80,Tablet,Refunded
+9392,Student_93,18,Indore,"Physics Wallah Rank Booster","Prateek Maheshwari",2999,2024-06-10,25.49,0.95,4.40,Unknown,Pending
+4104,Student_94,16,Kota,"Mathematics for JEE Mains","Rohit Mishra",3001,2024-12-12,27.30,0.64,3.80,Unknown,Paid
+8215,Student_95,16,Lucknow,"Biology NEET Ultimate","Anjali Sharma",3999,2024-12-26,39.80,0.74,3.60,Unknown,Paid
+3454,Student_96,16,Lucknow,"JEE Advanced Mechanics","Rohit Mishra",3499,2024-09-13,27.98,0.72,3.10,Tablet,Paid
+9996,Student_97,16,Mumbai,"Mathematics for JEE Mains","Amit Gupta",3001,2024-03-12,18.65,0.65,3.90,Tablet,Refunded
+3731,Student_98,16,Jaipur,"Class 12 Board Physics","Anjali Sharma",2499,2024-03-27,27.92,0.63,3.20,Mobile,Paid
+9154,Student_99,18,Lucknow,"Organic Chemistry Mastery","Vivek Singh",3001,2024-09-18,23.17,0.51,4.80,Mobile,Paid
+6056,Student_100,18,Bhopal,"Mathematics for JEE Mains","Prateek Maheshwari",3999,2024-08-01,30.03,0.69,3.00,Laptop,Paid
+9110,Student_101,19,Mumbai,"Organic Chemistry Mastery","Amit Gupta",3499,2024-06-01,33.13,0.58,4.70,Mobile,Paid
+4840,Student_102,20,Lucknow,"Organic Chemistry Mastery","Vivek Singh",2999,2024-07-28,16.41,1.00,3.90,Laptop,Paid
+2028,Student_103,18,Jaipur,"Organic Chemistry Mastery","Rohit Mishra",3999,2024-03-01,36.95,0.85,4.60,Unknown,Paid
+8385,Student_104,19,Unknown,"Physics Wallah Rank Booster","Anjali Sharma",3499,2024-09-24,22.45,0.29,4.30,Mobile,Paid
+1502,Student_105,19,Unknown,"Organic Chemistry Mastery","Prateek Maheshwari",3001,2024-09-18,29.44,0.30,4.20,Tablet,Pending
+7910,Student_106,17,Delhi,"Organic Chemistry Mastery","Amit Gupta",1999,2024-08-05,31.17,0.62,3.30,Mobile,Pending
+7938,Student_107,17,Delhi,"Class 12 Board Physics","Vivek Singh",1999,2024-10-09,28.67,0.55,3.10,Laptop,Pending
+5488,Student_108,17,Chandigarh,"JEE Advanced Mechanics","Vivek Singh",2499,2024-05-15,23.91,0.60,3.00,Mobile,Paid
+1206,Student_109,17,Indore,"NEET Physics Crash Course","Prateek Maheshwari",3499,2024-12-27,20.11,0.81,4.60,Unknown,Paid
+6134,Student_110,17,Kota,"Class 10 Science Foundation","Rohit Mishra",1999,2024-04-02,22.31,0.73,4.60,Tablet,Paid
+6977,Student_111,17,Delhi,"Class 12 Board Physics","Prateek Maheshwari",2999,2024-04-18,40.65,0.73,3.70,Laptop,Pending
+8721,Student_112,20,Varanasi,"NEET Physics Crash Course","Vivek Singh",3499,2024-08-28,16.34,1.00,2.80,Tablet,Paid
+8035,Student_113,19,Lucknow,"Organic Chemistry Mastery","Alakh Pandey",2999,2024-12-20,17.81,0.30,3.50,Tablet,Paid
+2484,Student_114,16,Varanasi,"JEE Advanced Mechanics","Amit Gupta",2999,2024-05-21,17.37,0.68,4.00,Laptop,Paid
+8858,Student_115,17,Jaipur,"Mathematics for JEE Mains","Prateek Maheshwari",1999,2024-10-17,26.36,0.51,3.60,Tablet,Paid
+1863,Student_116,16,Delhi,"JEE Advanced Mechanics","Vivek Singh",3499,2024-08-24,9.75,1.00,4.50,Tablet,Paid
+3790,Student_117,18,Kota,"Class 12 Board Physics","Rohit Mishra",3001,2024-12-05,11.46,0.10,5.00,Mobile,Paid
+8408,Student_118,18,Jaipur,"Organic Chemistry Mastery","Vivek Singh",3999,2024-11-07,22.39,0.11,3.00,Tablet,Paid
+9755,Student_119,19,Bhopal,"JEE Advanced Mechanics","Rohit Mishra",1999,2024-06-25,12.12,0.73,3.60,Tablet,Paid
+6116,Student_120,17,Bhopal,"Biology NEET Ultimate","Prateek Maheshwari",1999,2024-05-20,12.94,0.93,3.60,Tablet,Refunded
+7019,Student_121,19,Varanasi,"JEE Advanced Mechanics","Rohit Mishra",3001,2024-07-07,12.20,0.84,3.30,Tablet,Paid
+2757,Student_122,18,Indore,"Organic Chemistry Mastery","Anjali Sharma",3499,2024-02-18,16.53,0.45,3.00,Laptop,Paid
+8574,Student_123,16,Mumbai,"Physics Wallah Rank Booster","Anjali Sharma",3499,2024-10-28,32.31,1.00,3.70,Unknown,Paid
+7374,Student_124,19,Indore,"Biology NEET Ultimate","Anjali Sharma",2999,2024-07-08,34.56,0.34,4.70,Mobile,Refunded
+7892,Student_125,18,Unknown,"JEE Advanced Mechanics","Alakh Pandey",3001,2024-05-15,44.19,0.98,3.50,Tablet,Paid
+2678,Student_126,18,Chandigarh,"Class 10 Science Foundation","Prateek Maheshwari",3001,2024-02-12,43.82,0.38,3.70,Tablet,Pending
+4242,Student_127,17,Indore,"Class 10 Science Foundation","Vivek Singh",3499,2024-12-18,32.86,0.56,4.80,Laptop,Paid
+5636,Student_128,19,Chandigarh,"JEE Advanced Mechanics","Vivek Singh",2999,2024-03-30,35.28,0.81,4.40,Unknown,Pending
+2059,Student_129,18,Chandigarh,"Physics Wallah Rank Booster","Alakh Pandey",1999,2024-10-21,26.31,0.28,2.80,Tablet,Pending
+7668,Student_130,19,Kota,"Mathematics for JEE Mains","Rohit Mishra",2499,2024-12-06,30.20,1.00,3.90,Laptop,Paid
+4157,Student_131,20,Delhi,"Organic Chemistry Mastery","Alakh Pandey",3999,2024-09-01,44.44,0.56,3.60,Mobile,Paid
+6915,Student_132,18,Kota,"Class 10 Science Foundation","Rohit Mishra",1999,2024-07-10,28.71,0.68,4.50,Mobile,Paid
+3693,Student_133,18,Chandigarh,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-11-13,25.49,0.94,4.30,Tablet,Paid
+4627,Student_134,18,Jaipur,"JEE Advanced Mechanics","Amit Gupta",3999,2024-04-15,15.66,0.45,4.20,Tablet,Paid
+6450,Student_135,18,Bhopal,"Class 12 Board Physics","Vivek Singh",2499,2024-12-28,18.34,0.92,3.70,Unknown,Paid
+2663,Student_136,18,Chandigarh,"Mathematics for JEE Mains","Anjali Sharma",2499,2024-11-05,25.49,1.00,4.50,Unknown,Paid
+6592,Student_137,16,Kota,"Biology NEET Ultimate","Rohit Mishra",2999,2024-08-20,26.50,0.49,2.60,Tablet,Paid
+8392,Student_138,19,Jaipur,"NEET Physics Crash Course","Amit Gupta",3999,2024-09-21,18.80,0.99,2.90,Laptop,Paid
+2306,Student_139,18,Kota,"Class 10 Science Foundation","Vivek Singh",2999,2024-12-09,49.07,0.21,3.30,Unknown,Paid
+7776,Student_140,18,Indore,"JEE Advanced Mechanics","Anjali Sharma",1999,2024-02-06,26.73,0.75,2.70,Tablet,Paid
+6864,Student_141,20,Lucknow,"Class 12 Board Physics","Rohit Mishra",3001,2024-10-31,20.57,0.34,3.10,Unknown,Paid
+8526,Student_142,17,Varanasi,"Organic Chemistry Mastery","Rohit Mishra",3001,2024-02-10,26.52,0.89,3.70,Tablet,Paid
+9901,Student_143,18,Mumbai,"Class 12 Board Physics","Alakh Pandey",3001,2024-01-17,25.25,0.87,4.90,Mobile,Paid
+6575,Student_144,18,Unknown,"Physics Wallah Rank Booster","Alakh Pandey",3999,2024-12-09,26.88,1.00,3.30,Tablet,Refunded
+6530,Student_145,19,Kota,"Biology NEET Ultimate","Vivek Singh",3001,2024-10-03,9.06,1.00,3.20,Mobile,Paid
+5413,Student_146,18,Mumbai,"JEE Advanced Mechanics","Anjali Sharma",1999,2024-11-02,37.92,0.61,3.20,Unknown,Paid
+4748,Student_147,19,Patna,"Organic Chemistry Mastery","Rohit Mishra",2999,2024-02-28,38.49,0.38,3.20,Tablet,Paid
+1663,Student_148,19,Kota,"Physics Wallah Rank Booster","Vivek Singh",3999,2024-07-01,39.70,0.79,2.60,Unknown,Refunded
+2998,Student_149,16,Lucknow,"Physics Wallah Rank Booster","Vivek Singh",2999,2024-02-10,28.25,0.63,4.80,Mobile,Refunded
+8994,Student_150,16,Mumbai,"JEE Advanced Mechanics","Prateek Maheshwari",3999,2024-02-08,31.62,1.00,3.00,Tablet,Refunded
+2495,Student_151,18,Unknown,"Biology NEET Ultimate","Alakh Pandey",2999,2024-07-10,16.34,0.11,3.60,Unknown,Paid
+4304,Student_152,17,Chandigarh,"Mathematics for JEE Mains","Anjali Sharma",2499,2024-09-23,25.49,1.00,2.50,Mobile,Paid
+4763,Student_153,17,Kota,"Mathematics for JEE Mains","Rohit Mishra",2999,2024-05-26,27.52,0.78,4.60,Unknown,Paid
+6232,Student_154,18,Delhi,"Physics Wallah Rank Booster","Vivek Singh",3001,2024-11-28,20.40,0.45,4.30,Laptop,Paid
+2853,Student_155,17,Varanasi,"Mathematics for JEE Mains","Rohit Mishra",2499,2024-05-06,33.65,0.83,4.90,Mobile,Pending
+7585,Student_156,18,Lucknow,"NEET Physics Crash Course","Prateek Maheshwari",2999,2024-02-15,34.03,0.97,4.50,Mobile,Paid
+2291,Student_157,18,Mumbai,"Physics Wallah Rank Booster","Anjali Sharma",3999,2024-02-14,25.61,0.68,3.30,Mobile,Paid
+4581,Student_158,18,Lucknow,"Physics Wallah Rank Booster","Vivek Singh",3999,2024-01-01,29.38,0.21,3.10,Tablet,Paid
+8554,Student_159,17,Jaipur,"Organic Chemistry Mastery","Rohit Mishra",3999,2024-06-16,14.68,0.58,4.20,Tablet,Refunded
+8280,Student_160,18,Unknown,"Mathematics for JEE Mains","Alakh Pandey",3499,2024-04-17,37.43,0.91,3.40,Tablet,Paid
+2636,Student_161,16,Varanasi,"Biology NEET Ultimate","Prateek Maheshwari",1999,2024-01-19,16.01,0.77,3.90,Laptop,Paid
+4696,Student_162,18,Chandigarh,"Physics Wallah Rank Booster","Anjali Sharma",3999,2024-11-27,17.95,0.61,2.50,Laptop,Paid
+1698,Student_163,17,Kota,"Class 12 Board Physics","Prateek Maheshwari",2499,2024-03-12,25.62,0.98,2.70,Mobile,Paid
+5737,Student_164,20,Kota,"Biology NEET Ultimate","Alakh Pandey",3999,2024-04-18,36.15,0.83,3.80,Laptop,Paid
+1854,Student_165,18,Kota,"NEET Physics Crash Course","Anjali Sharma",3499,2024-09-24,36.14,0.85,3.90,Unknown,Refunded
+9164,Student_166,18,Varanasi,"Organic Chemistry Mastery","Prateek Maheshwari",3001,2024-08-27,24.95,0.55,4.40,Mobile,Paid
+6855,Student_167,18,Delhi,"JEE Advanced Mechanics","Amit Gupta",2499,2024-10-27,32.73,0.52,2.80,Mobile,Paid
+8392,Student_168,17,Patna,"Biology NEET Ultimate","Alakh Pandey",3499,2024-03-30,8.11,0.23,3.80,Unknown,Paid
+7528,Student_169,19,Bhopal,"Physics Wallah Rank Booster","Alakh Pandey",3001,2024-04-12,17.81,0.59,3.00,Mobile,Paid
+6249,Student_170,17,Indore,"NEET Physics Crash Course","Alakh Pandey",2499,2024-09-06,18.01,0.88,2.70,Laptop,Refunded
+6172,Student_171,17,Mumbai,"Class 10 Science Foundation","Amit Gupta",2999,2024-01-08,37.52,0.60,3.50,Tablet,Paid
+2707,Student_172,16,Delhi,"NEET Physics Crash Course","Amit Gupta",1999,2024-06-01,31.55,0.76,2.90,Unknown,Paid
+6791,Student_173,18,Chandigarh,"NEET Physics Crash Course","Rohit Mishra",1999,2024-12-12,26.85,0.93,3.10,Laptop,Refunded
+6535,Student_174,18,Mumbai,"Organic Chemistry Mastery","Vivek Singh",3499,2024-06-22,27.82,0.74,3.30,Unknown,Paid
+5931,Student_175,17,Kota,"JEE Advanced Mechanics","Prateek Maheshwari",3001,2024-12-08,40.68,0.77,3.10,Unknown,Paid
+4510,Student_176,20,Lucknow,"Class 10 Science Foundation","Rohit Mishra",1999,2024-06-06,23.30,0.31,2.70,Mobile,Paid
+1202,Student_177,16,Chandigarh,"Mathematics for JEE Mains","Prateek Maheshwari",3001,2024-08-02,11.86,0.57,2.70,Mobile,Paid
+5218,Student_178,17,Mumbai,"Mathematics for JEE Mains","Vivek Singh",3001,2024-06-25,35.87,1.00,3.00,Laptop,Paid
+9958,Student_179,17,Unknown,"Biology NEET Ultimate","Amit Gupta",3499,2024-06-23,26.82,0.68,2.60,Unknown,Paid
+5389,Student_180,16,Kota,"NEET Physics Crash Course","Vivek Singh",3499,2024-12-05,34.54,1.00,4.10,Mobile,Paid
+3327,Student_181,18,Mumbai,"Class 12 Board Physics","Amit Gupta",3499,2024-12-03,24.55,0.47,3.20,Mobile,Paid
+9004,Student_182,18,Lucknow,"Organic Chemistry Mastery","Vivek Singh",1999,2024-05-25,16.61,0.71,3.20,Unknown,Paid
+3931,Student_183,18,Unknown,"Class 12 Board Physics","Rohit Mishra",3499,2024-11-19,29.03,0.55,3.30,Laptop,Paid
+8777,Student_184,16,Kota,"Organic Chemistry Mastery","Anjali Sharma",1999,2024-06-09,25.10,0.80,4.20,Laptop,Pending
+1197,Student_185,17,Patna,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-05-06,26.85,0.87,4.70,Unknown,Paid
+8125,Student_186,16,Delhi,"Biology NEET Ultimate","Prateek Maheshwari",3999,2024-03-22,41.17,0.80,4.40,Laptop,Paid
+2930,Student_187,20,Jaipur,"Biology NEET Ultimate","Rohit Mishra",3001,2024-05-26,14.01,0.91,4.30,Mobile,Paid
+7287,Student_188,16,Indore,"Biology NEET Ultimate","Alakh Pandey",3499,2024-08-26,27.86,0.65,3.70,Unknown,Paid
+9800,Student_189,18,Varanasi,"Class 10 Science Foundation","Prateek Maheshwari",2499,2024-03-24,16.81,0.60,3.70,Mobile,Paid
+5282,Student_190,18,Indore,"JEE Advanced Mechanics","Vivek Singh",3001,2024-04-22,-0.91,0.21,3.90,Tablet,Paid
+3511,Student_191,18,Chandigarh,"Class 10 Science Foundation","Prateek Maheshwari",3001,2024-08-12,24.51,0.81,3.00,Tablet,Paid
+1659,Student_192,20,Indore,"Physics Wallah Rank Booster","Anjali Sharma",3499,2024-11-27,25.31,0.69,3.00,Laptop,Paid
+3811,Student_193,17,Kota,"Physics Wallah Rank Booster","Amit Gupta",2999,2024-08-30,31.24,0.63,3.20,Tablet,Paid
+8098,Student_194,19,Patna,"Class 12 Board Physics","Vivek Singh",3499,2024-05-22,22.82,0.60,4.80,Mobile,Refunded
+7546,Student_195,18,Jaipur,"JEE Advanced Mechanics","Prateek Maheshwari",3001,2024-02-10,10.11,0.64,3.90,Tablet,Refunded
+2986,Student_196,19,Delhi,"Mathematics for JEE Mains","Vivek Singh",2499,2024-09-14,16.78,0.59,4.30,Mobile,Paid
+9338,Student_197,16,Delhi,"JEE Advanced Mechanics","Vivek Singh",3001,2024-10-11,38.17,0.52,3.40,Laptop,Paid
+3911,Student_198,16,Lucknow,"Organic Chemistry Mastery","Vivek Singh",2499,2024-04-14,16.63,0.71,3.50,Laptop,Paid
+2734,Student_199,16,Varanasi,"Physics Wallah Rank Booster","Amit Gupta",1999,2024-07-20,40.83,0.77,2.80,Mobile,Paid
+2843,Student_200,18,Mumbai,"NEET Physics Crash Course","Rohit Mishra",3999,2024-11-02,35.50,0.46,2.90,Tablet,Paid
+9680,Student_201,19,Patna,"NEET Physics Crash Course","Vivek Singh",3001,2024-11-26,21.82,0.55,4.60,Laptop,Refunded
+3976,Student_202,19,Mumbai,"Mathematics for JEE Mains","Alakh Pandey",3499,2024-09-22,17.71,0.60,4.00,Unknown,Paid
+2959,Student_203,16,Jaipur,"Organic Chemistry Mastery","Anjali Sharma",1999,2024-07-28,35.48,0.65,3.30,Laptop,Paid
+6759,Student_204,20,Indore,"Class 12 Board Physics","Amit Gupta",3999,2024-02-20,22.59,0.62,4.50,Tablet,Paid
+7694,Student_205,17,Delhi,"Class 10 Science Foundation","Prateek Maheshwari",3499,2024-04-27,9.54,0.81,3.10,Unknown,Paid
+3385,Student_206,17,Jaipur,"Organic Chemistry Mastery","Amit Gupta",2999,2024-07-19,30.62,0.24,4.90,Tablet,Refunded
+5736,Student_207,16,Indore,"NEET Physics Crash Course","Prateek Maheshwari",3499,2024-02-08,29.17,0.28,3.40,Mobile,Paid
+2802,Student_208,19,Delhi,"NEET Physics Crash Course","Amit Gupta",2499,2024-01-28,36.38,0.70,3.30,Unknown,Refunded
+9155,Student_209,16,Indore,"Class 12 Board Physics","Prateek Maheshwari",2499,2024-09-15,28.50,0.50,3.30,Tablet,Paid
+9120,Student_210,18,Varanasi,"Physics Wallah Rank Booster","Vivek Singh",2999,2024-03-24,19.51,0.87,2.80,Unknown,Paid
+7616,Student_211,19,Patna,"Organic Chemistry Mastery","Rohit Mishra",1999,2024-06-03,37.70,0.94,2.80,Tablet,Refunded
+6534,Student_212,16,Unknown,"Organic Chemistry Mastery","Prateek Maheshwari",3999,2024-04-26,38.67,0.71,4.10,Unknown,Paid
+5061,Student_213,18,Chandigarh,"NEET Physics Crash Course","Prateek Maheshwari",3499,2024-01-02,25.49,0.38,4.70,Tablet,Pending
+1262,Student_214,17,Jaipur,"Class 10 Science Foundation","Alakh Pandey",2499,2024-04-02,25.60,0.91,4.50,Mobile,Paid
+7287,Student_215,17,Jaipur,"Mathematics for JEE Mains","Prateek Maheshwari",1999,2024-06-14,11.77,0.70,2.90,Unknown,Paid
+9815,Student_216,18,Unknown,"Biology NEET Ultimate","Alakh Pandey",2999,2024-12-15,18.92,0.28,3.90,Unknown,Pending
+3049,Student_217,17,Bhopal,"Mathematics for JEE Mains","Anjali Sharma",3001,2024-10-22,32.61,0.30,2.80,Unknown,Paid
+6423,Student_218,18,Kota,"Organic Chemistry Mastery","Vivek Singh",2499,2024-09-14,19.43,1.00,2.60,Unknown,Pending
+5548,Student_219,18,Varanasi,"Mathematics for JEE Mains","Alakh Pandey",2999,2024-03-21,10.43,0.99,4.10,Mobile,Pending
+4108,Student_220,18,Varanasi,"NEET Physics Crash Course","Rohit Mishra",3499,2024-09-24,59.96,0.02,3.80,Unknown,Paid
+8158,Student_221,19,Unknown,"NEET Physics Crash Course","Vivek Singh",3999,2024-08-22,10.37,0.31,2.70,Laptop,Paid
+8400,Student_222,18,Mumbai,"Class 12 Board Physics","Alakh Pandey",2499,2024-11-16,47.57,0.94,2.60,Mobile,Paid
+4170,Student_223,18,Indore,"Organic Chemistry Mastery","Vivek Singh",2499,2024-11-06,21.93,0.65,5.00,Laptop,Paid
+3255,Student_224,18,Kota,"Class 12 Board Physics","Vivek Singh",3499,2024-10-27,25.49,0.83,2.60,Unknown,Paid
+2154,Student_225,17,Patna,"Organic Chemistry Mastery","Vivek Singh",3001,2024-12-22,18.28,0.63,3.60,Tablet,Paid
+5499,Student_226,17,Patna,"Biology NEET Ultimate","Anjali Sharma",1999,2024-07-31,32.83,0.81,3.80,Laptop,Paid
+7295,Student_227,20,Unknown,"Biology NEET Ultimate","Rohit Mishra",3999,2024-03-02,10.60,0.65,2.80,Unknown,Paid
+7197,Student_228,18,Varanasi,"Physics Wallah Rank Booster","Amit Gupta",2499,2024-02-18,6.60,0.54,2.90,Laptop,Pending
+2648,Student_229,17,Patna,"Organic Chemistry Mastery","Amit Gupta",3999,2024-05-06,41.10,0.91,3.40,Unknown,Refunded
+6539,Student_230,18,Bhopal,"Class 10 Science Foundation","Alakh Pandey",2499,2024-08-10,16.96,0.70,4.40,Unknown,Paid
+5199,Student_231,17,Jaipur,"Mathematics for JEE Mains","Vivek Singh",3999,2024-10-05,32.46,0.81,3.80,Unknown,Paid
+9445,Student_232,20,Lucknow,"Organic Chemistry Mastery","Alakh Pandey",2999,2024-10-20,14.15,0.69,4.10,Tablet,Refunded
+3557,Student_233,16,Chandigarh,"JEE Advanced Mechanics","Anjali Sharma",2499,2024-10-10,32.08,0.53,5.00,Laptop,Paid
+6592,Student_234,17,Unknown,"Physics Wallah Rank Booster","Anjali Sharma",3999,2024-10-03,41.84,1.00,4.40,Mobile,Paid
+1098,Student_235,17,Mumbai,"JEE Advanced Mechanics","Prateek Maheshwari",1999,2024-04-16,19.73,0.74,3.60,Mobile,Pending
+3200,Student_236,18,Indore,"NEET Physics Crash Course","Anjali Sharma",2999,2024-05-25,5.67,0.56,3.60,Mobile,Paid
+3961,Student_237,20,Chandigarh,"Biology NEET Ultimate","Prateek Maheshwari",2999,2024-04-08,41.89,0.97,4.00,Mobile,Paid
+5973,Student_238,16,Indore,"Mathematics for JEE Mains","Rohit Mishra",1999,2024-03-13,34.26,0.32,4.20,Unknown,Refunded
+5433,Student_239,19,Delhi,"Organic Chemistry Mastery","Alakh Pandey",3999,2024-05-01,20.26,1.00,3.70,Laptop,Pending
+3869,Student_240,16,Chandigarh,"JEE Advanced Mechanics","Rohit Mishra",3499,2024-01-30,22.82,0.61,4.10,Laptop,Paid
+1956,Student_241,19,Lucknow,"Mathematics for JEE Mains","Anjali Sharma",1999,2024-07-06,13.89,0.33,2.60,Tablet,Paid
+9352,Student_242,16,Varanasi,"NEET Physics Crash Course","Rohit Mishra",3999,2024-12-29,39.20,1.00,3.60,Laptop,Paid
+6699,Student_243,16,Bhopal,"Biology NEET Ultimate","Rohit Mishra",1999,2024-12-19,19.65,0.53,3.20,Laptop,Paid
+7944,Student_244,18,Jaipur,"Class 10 Science Foundation","Rohit Mishra",1999,2024-10-14,10.81,0.71,2.80,Laptop,Paid
+5493,Student_245,18,Jaipur,"Physics Wallah Rank Booster","Anjali Sharma",2499,2024-07-13,27.14,0.83,2.70,Tablet,Paid
+5911,Student_246,20,Bhopal,"Mathematics for JEE Mains","Vivek Singh",3999,2024-06-04,16.40,0.95,4.00,Mobile,Refunded
+4987,Student_247,18,Kota,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-06-20,14.70,0.72,3.80,Laptop,Paid
+7015,Student_248,20,Delhi,"Class 10 Science Foundation","Prateek Maheshwari",2499,2024-11-30,20.70,0.49,3.10,Tablet,Paid
+2218,Student_249,16,Indore,"Mathematics for JEE Mains","Anjali Sharma",1999,2024-02-10,25.86,0.70,3.70,Tablet,Paid
+5496,Student_250,18,Lucknow,"NEET Physics Crash Course","Rohit Mishra",3001,2024-03-03,11.19,0.55,3.70,Unknown,Paid
+5735,Student_251,18,Patna,"NEET Physics Crash Course","Vivek Singh",1999,2024-01-23,38.85,0.71,3.00,Tablet,Paid
+5555,Student_252,19,Chandigarh,"Class 10 Science Foundation","Anjali Sharma",1999,2024-12-25,31.77,1.00,4.10,Mobile,Paid
+9050,Student_253,19,Delhi,"Physics Wallah Rank Booster","Amit Gupta",3999,2024-03-15,21.35,0.84,4.50,Laptop,Paid
+4446,Student_254,19,Unknown,"Organic Chemistry Mastery","Vivek Singh",3999,2024-02-17,15.97,0.70,4.50,Tablet,Paid
+2045,Student_255,18,Chandigarh,"JEE Advanced Mechanics","Prateek Maheshwari",2499,2024-06-08,24.11,0.83,4.00,Mobile,Paid
+7893,Student_256,18,Lucknow,"Organic Chemistry Mastery","Rohit Mishra",3499,2024-11-08,33.99,0.85,3.80,Tablet,Refunded
+2693,Student_257,19,Mumbai,"Mathematics for JEE Mains","Amit Gupta",2499,2024-04-27,32.45,0.38,2.70,Tablet,Paid
+4436,Student_258,17,Mumbai,"JEE Advanced Mechanics","Amit Gupta",2999,2024-04-09,35.59,0.66,3.20,Tablet,Paid
+9754,Student_259,18,Delhi,"Class 12 Board Physics","Anjali Sharma",1999,2024-06-15,20.20,1.00,2.70,Tablet,Refunded
+6895,Student_260,19,Varanasi,"Class 10 Science Foundation","Amit Gupta",3001,2024-10-16,-4.25,0.95,4.90,Tablet,Pending
+4354,Student_261,16,Lucknow,"Class 10 Science Foundation","Prateek Maheshwari",1999,2024-06-04,37.48,0.52,2.80,Mobile,Paid
+1225,Student_262,19,Lucknow,"Physics Wallah Rank Booster","Prateek Maheshwari",1999,2024-01-07,23.33,0.50,2.90,Laptop,Paid
+5893,Student_263,18,Bhopal,"JEE Advanced Mechanics","Alakh Pandey",2499,2024-07-14,31.66,0.49,4.70,Laptop,Refunded
+8022,Student_264,19,Varanasi,"NEET Physics Crash Course","Prateek Maheshwari",3001,2024-02-25,41.69,0.87,4.90,Laptop,Pending
+6600,Student_265,19,Indore,"JEE Advanced Mechanics","Vivek Singh",3001,2024-11-16,49.34,1.00,4.40,Laptop,Paid
+8996,Student_266,16,Indore,"Mathematics for JEE Mains","Amit Gupta",3001,2024-07-11,18.50,0.80,2.50,Mobile,Paid
+8683,Student_267,18,Patna,"NEET Physics Crash Course","Prateek Maheshwari",2499,2024-02-16,26.34,0.69,2.50,Unknown,Paid
+5642,Student_268,20,Jaipur,"Biology NEET Ultimate","Anjali Sharma",1999,2024-05-27,38.67,0.54,3.40,Unknown,Paid
+8679,Student_269,17,Mumbai,"Biology NEET Ultimate","Alakh Pandey",2499,2024-10-01,16.56,0.73,2.90,Mobile,Paid
+9208,Student_270,18,Unknown,"Class 12 Board Physics","Amit Gupta",3999,2024-06-05,19.18,0.44,2.50,Mobile,Paid
+8339,Student_271,17,Indore,"Biology NEET Ultimate","Alakh Pandey",3999,2024-07-20,19.12,0.17,3.70,Tablet,Refunded
+3205,Student_272,18,Varanasi,"Class 10 Science Foundation","Amit Gupta",2499,2024-05-05,24.72,1.00,4.90,Tablet,Paid
+2069,Student_273,18,Lucknow,"JEE Advanced Mechanics","Anjali Sharma",3001,2024-10-31,22.80,0.40,3.30,Tablet,Paid
+4444,Student_274,18,Unknown,"Biology NEET Ultimate","Alakh Pandey",1999,2024-10-20,19.06,0.57,4.20,Laptop,Paid
+2060,Student_275,17,Indore,"Organic Chemistry Mastery","Rohit Mishra",2499,2024-03-04,25.49,0.81,4.10,Tablet,Paid
+3327,Student_276,18,Lucknow,"Physics Wallah Rank Booster","Vivek Singh",2499,2024-11-20,33.12,1.00,3.10,Unknown,Paid
+4420,Student_277,16,Indore,"Organic Chemistry Mastery","Vivek Singh",2499,2024-06-24,38.38,0.71,4.10,Laptop,Paid
+1301,Student_278,16,Mumbai,"Biology NEET Ultimate","Amit Gupta",2999,2024-04-25,39.83,0.35,3.00,Tablet,Paid
+1606,Student_279,16,Chandigarh,"Class 12 Board Physics","Rohit Mishra",3999,2024-07-22,20.19,0.57,2.80,Laptop,Paid
+4170,Student_280,16,Indore,"Physics Wallah Rank Booster","Alakh Pandey",3001,2024-11-16,33.54,0.48,4.30,Unknown,Pending
+1699,Student_281,18,Varanasi,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-01-31,27.36,0.64,2.80,Tablet,Paid
+6088,Student_282,18,Indore,"Organic Chemistry Mastery","Rohit Mishra",3001,2024-04-22,19.29,0.96,5.00,Unknown,Paid
+1190,Student_283,19,Jaipur,"Class 12 Board Physics","Alakh Pandey",3499,2024-12-30,32.34,0.02,3.00,Unknown,Pending
+1980,Student_284,16,Unknown,"JEE Advanced Mechanics","Anjali Sharma",2999,2024-11-20,18.83,0.55,4.00,Unknown,Paid
+3975,Student_285,20,Unknown,"JEE Advanced Mechanics","Rohit Mishra",2499,2024-12-09,21.24,0.53,3.50,Tablet,Paid
+7102,Student_286,19,Mumbai,"Organic Chemistry Mastery","Rohit Mishra",2999,2024-03-07,11.23,0.34,2.80,Mobile,Refunded
+2184,Student_287,17,Varanasi,"Biology NEET Ultimate","Anjali Sharma",2999,2024-03-15,20.36,0.80,2.60,Tablet,Paid
+4327,Student_288,20,Bhopal,"Class 12 Board Physics","Rohit Mishra",1999,2024-02-14,27.54,0.30,4.10,Unknown,Paid
+4394,Student_289,18,Varanasi,"JEE Advanced Mechanics","Rohit Mishra",3999,2024-09-16,25.49,0.33,4.50,Tablet,Paid
+9319,Student_290,17,Unknown,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-06-02,21.47,0.86,4.60,Unknown,Refunded
+2816,Student_291,17,Jaipur,"NEET Physics Crash Course","Vivek Singh",2499,2024-06-03,14.62,1.00,3.70,Mobile,Paid
+6854,Student_292,20,Chandigarh,"Biology NEET Ultimate","Prateek Maheshwari",3499,2024-12-28,39.97,0.63,4.40,Laptop,Paid
+7709,Student_293,19,Mumbai,"Class 12 Board Physics","Anjali Sharma",3001,2024-08-21,19.95,0.35,4.20,Mobile,Paid
+1569,Student_294,16,Bhopal,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-02-20,7.52,0.47,4.30,Mobile,Paid
+6442,Student_295,19,Jaipur,"Class 12 Board Physics","Vivek Singh",3001,2024-11-01,26.33,0.90,3.70,Laptop,Paid
+2895,Student_296,19,Jaipur,"Physics Wallah Rank Booster","Anjali Sharma",3999,2024-09-18,21.75,0.68,4.10,Tablet,Paid
+3733,Student_297,19,Delhi,"Mathematics for JEE Mains","Amit Gupta",3001,2024-11-10,48.00,0.62,4.50,Laptop,Paid
+4863,Student_298,19,Mumbai,"Biology NEET Ultimate","Amit Gupta",3499,2024-05-04,29.75,0.73,3.50,Tablet,Paid
+8455,Student_299,19,Varanasi,"Physics Wallah Rank Booster","Rohit Mishra",3499,2024-09-01,23.54,0.64,4.50,Tablet,Paid
+5014,Student_300,16,Lucknow,"Biology NEET Ultimate","Vivek Singh",3001,2024-01-30,25.49,1.00,4.00,Unknown,Paid
+2686,Student_301,17,Chandigarh,"JEE Advanced Mechanics","Vivek Singh",2999,2024-05-01,28.30,0.46,2.90,Unknown,Refunded
+4009,Student_302,18,Lucknow,"NEET Physics Crash Course","Anjali Sharma",3999,2024-05-04,39.57,0.43,2.60,Laptop,Paid
+8806,Student_303,20,Varanasi,"Biology NEET Ultimate","Anjali Sharma",1999,2024-02-06,28.12,0.30,3.40,Mobile,Pending
+1154,Student_304,17,Varanasi,"Biology NEET Ultimate","Vivek Singh",2499,2024-06-18,16.53,0.52,3.90,Laptop,Refunded
+2409,Student_305,18,Mumbai,"JEE Advanced Mechanics","Anjali Sharma",3499,2024-05-03,30.39,0.38,4.60,Tablet,Paid
+1784,Student_306,18,Varanasi,"Class 10 Science Foundation","Vivek Singh",2499,2024-12-22,24.51,0.70,2.80,Unknown,Paid
+9096,Student_307,18,Unknown,"JEE Advanced Mechanics","Prateek Maheshwari",1999,2024-02-04,29.49,0.66,4.50,Laptop,Pending
+8560,Student_308,19,Delhi,"Physics Wallah Rank Booster","Vivek Singh",2499,2024-03-27,21.45,0.38,4.70,Laptop,Paid
+8343,Student_309,20,Bhopal,"JEE Advanced Mechanics","Amit Gupta",1999,2024-05-13,21.22,0.80,2.90,Unknown,Refunded
+8206,Student_310,18,Varanasi,"JEE Advanced Mechanics","Anjali Sharma",3001,2024-07-14,20.82,1.00,4.60,Unknown,Paid
+6596,Student_311,18,Lucknow,"NEET Physics Crash Course","Vivek Singh",2999,2024-09-30,34.42,0.74,5.00,Unknown,Paid
+6801,Student_312,17,Varanasi,"JEE Advanced Mechanics","Vivek Singh",3499,2024-07-19,21.32,0.01,4.30,Tablet,Paid
+3806,Student_313,18,Delhi,"Class 12 Board Physics","Anjali Sharma",1999,2024-10-11,20.40,1.00,4.50,Unknown,Paid
+1537,Student_314,17,Unknown,"Biology NEET Ultimate","Prateek Maheshwari",2499,2024-03-17,15.58,0.84,5.00,Mobile,Pending
+6986,Student_315,17,Unknown,"Class 12 Board Physics","Prateek Maheshwari",3499,2024-02-28,29.54,1.00,4.00,Laptop,Paid
+2841,Student_316,18,Indore,"NEET Physics Crash Course","Anjali Sharma",2999,2024-05-05,28.12,0.92,3.30,Unknown,Paid
+9716,Student_317,16,Unknown,"Organic Chemistry Mastery","Alakh Pandey",3001,2024-04-18,20.51,0.97,4.60,Unknown,Pending
+7971,Student_318,17,Indore,"Class 10 Science Foundation","Anjali Sharma",3499,2024-08-11,17.91,0.70,4.00,Tablet,Paid
+6625,Student_319,18,Jaipur,"Class 12 Board Physics","Anjali Sharma",1999,2024-10-04,25.49,0.58,4.00,Tablet,Paid
+3950,Student_320,17,Chandigarh,"NEET Physics Crash Course","Prateek Maheshwari",2999,2024-03-08,6.20,0.74,3.10,Laptop,Paid
+8992,Student_321,17,Patna,"Physics Wallah Rank Booster","Prateek Maheshwari",2499,2024-03-09,29.93,0.47,4.40,Mobile,Paid
+5780,Student_322,19,Unknown,"Organic Chemistry Mastery","Anjali Sharma",2999,2024-06-13,37.91,0.76,2.70,Laptop,Paid
+3368,Student_323,18,Bhopal,"NEET Physics Crash Course","Anjali Sharma",2999,2024-10-31,-8.87,0.00,4.80,Unknown,Paid
+7655,Student_324,16,Kota,"NEET Physics Crash Course","Anjali Sharma",3999,2024-06-10,32.94,0.66,3.30,Mobile,Paid
+9173,Student_325,20,Jaipur,"Class 10 Science Foundation","Prateek Maheshwari",2999,2024-12-30,22.80,0.99,2.80,Mobile,Paid
+5495,Student_326,18,Unknown,"Biology NEET Ultimate","Anjali Sharma",2999,2024-12-07,25.49,0.67,3.60,Mobile,Paid
+7002,Student_327,19,Chandigarh,"Class 12 Board Physics","Anjali Sharma",3499,2024-11-04,21.77,1.00,2.60,Mobile,Paid
+7614,Student_328,18,Indore,"Physics Wallah Rank Booster","Rohit Mishra",2499,2024-12-08,35.75,0.58,4.20,Laptop,Paid
+6919,Student_329,18,Lucknow,"Mathematics for JEE Mains","Alakh Pandey",3499,2024-02-11,28.63,0.90,4.80,Tablet,Paid
+1853,Student_330,19,Kota,"Class 12 Board Physics","Amit Gupta",3499,2024-12-19,26.32,0.43,4.60,Tablet,Paid
+5146,Student_331,19,Chandigarh,"Mathematics for JEE Mains","Alakh Pandey",1999,2024-04-18,25.49,0.89,2.80,Unknown,Paid
+4769,Student_332,19,Chandigarh,"NEET Physics Crash Course","Rohit Mishra",3499,2024-02-20,43.82,0.71,2.80,Tablet,Refunded
+1574,Student_333,16,Unknown,"JEE Advanced Mechanics","Amit Gupta",3999,2024-09-06,25.10,0.60,4.50,Tablet,Paid
+2148,Student_334,17,Jaipur,"Physics Wallah Rank Booster","Anjali Sharma",3999,2024-12-06,47.90,0.01,4.80,Tablet,Paid
+7293,Student_335,19,Kota,"Organic Chemistry Mastery","Rohit Mishra",1999,2024-01-21,44.28,0.59,3.70,Tablet,Paid
+7457,Student_336,18,Mumbai,"JEE Advanced Mechanics","Anjali Sharma",3001,2024-10-26,7.22,0.70,3.70,Unknown,Paid
+8509,Student_337,19,Patna,"JEE Advanced Mechanics","Prateek Maheshwari",2499,2024-05-18,18.45,0.86,3.30,Laptop,Paid
+5777,Student_338,16,Mumbai,"Class 12 Board Physics","Vivek Singh",2499,2024-12-24,14.63,1.00,4.70,Mobile,Paid
+4854,Student_339,18,Kota,"Physics Wallah Rank Booster","Rohit Mishra",3499,2024-11-19,24.52,1.00,4.10,Tablet,Paid
+3491,Student_340,17,Mumbai,"Biology NEET Ultimate","Prateek Maheshwari",3499,2024-04-01,26.87,0.96,3.20,Laptop,Paid
+4124,Student_341,18,Unknown,"NEET Physics Crash Course","Rohit Mishra",3001,2024-10-06,27.30,0.51,3.20,Tablet,Refunded
+6691,Student_342,18,Delhi,"NEET Physics Crash Course","Rohit Mishra",3499,2024-05-04,35.54,0.57,4.70,Tablet,Paid
+4051,Student_343,18,Indore,"NEET Physics Crash Course","Prateek Maheshwari",2499,2024-04-20,39.94,0.83,3.70,Mobile,Paid
+1004,Student_344,18,Delhi,"NEET Physics Crash Course","Amit Gupta",2999,2024-12-19,34.67,0.78,3.70,Mobile,Refunded
+6222,Student_345,18,Varanasi,"Class 12 Board Physics","Alakh Pandey",3999,2024-05-18,19.39,1.00,3.90,Mobile,Paid
+6315,Student_346,17,Mumbai,"Mathematics for JEE Mains","Anjali Sharma",2999,2024-09-29,17.18,1.00,2.90,Tablet,Paid
+5869,Student_347,19,Varanasi,"NEET Physics Crash Course","Rohit Mishra",2999,2024-04-08,25.03,1.00,2.70,Tablet,Paid
+1876,Student_348,16,Lucknow,"Mathematics for JEE Mains","Anjali Sharma",2499,2024-09-08,29.26,1.00,4.50,Tablet,Paid
+8027,Student_349,18,Bhopal,"Mathematics for JEE Mains","Vivek Singh",2999,2024-12-03,23.17,0.78,4.70,Mobile,Paid
+5142,Student_350,18,Lucknow,"Biology NEET Ultimate","Prateek Maheshwari",3001,2024-04-13,11.55,0.99,4.60,Unknown,Paid
+7966,Student_351,19,Kota,"NEET Physics Crash Course","Anjali Sharma",1999,2024-08-01,31.82,1.00,4.70,Laptop,Paid
+8079,Student_352,18,Chandigarh,"Class 10 Science Foundation","Prateek Maheshwari",3499,2024-09-05,21.08,0.61,3.90,Unknown,Paid
+8987,Student_353,19,Indore,"Organic Chemistry Mastery","Anjali Sharma",1999,2024-05-31,20.77,0.52,4.50,Tablet,Paid
+7799,Student_354,18,Mumbai,"JEE Advanced Mechanics","Alakh Pandey",3999,2024-09-06,24.45,0.46,3.50,Tablet,Refunded
+5465,Student_355,17,Jaipur,"Mathematics for JEE Mains","Alakh Pandey",3499,2024-10-01,25.49,0.43,4.20,Unknown,Paid
+1635,Student_356,17,Bhopal,"Physics Wallah Rank Booster","Alakh Pandey",2999,2024-06-13,21.33,0.30,5.00,Tablet,Paid
+2693,Student_357,17,Patna,"Physics Wallah Rank Booster","Alakh Pandey",3999,2024-12-06,12.20,0.71,3.10,Laptop,Paid
+5752,Student_358,17,Patna,"Organic Chemistry Mastery","Alakh Pandey",3499,2024-01-08,23.88,0.40,3.50,Tablet,Paid
+9311,Student_359,18,Patna,"Physics Wallah Rank Booster","Alakh Pandey",3001,2024-10-10,32.03,0.45,3.70,Laptop,Refunded
+1830,Student_360,20,Mumbai,"Class 10 Science Foundation","Prateek Maheshwari",3001,2024-01-05,27.65,0.83,2.80,Unknown,Paid
+6177,Student_361,16,Patna,"Physics Wallah Rank Booster","Rohit Mishra",3001,2024-05-24,34.48,0.70,2.70,Unknown,Paid
+9932,Student_362,16,Unknown,"JEE Advanced Mechanics","Anjali Sharma",3001,2024-04-10,17.71,0.76,4.60,Tablet,Paid
+9308,Student_363,17,Delhi,"JEE Advanced Mechanics","Alakh Pandey",2999,2024-06-12,12.22,0.99,4.90,Laptop,Paid
+6949,Student_364,19,Bhopal,"Mathematics for JEE Mains","Prateek Maheshwari",1999,2024-05-26,22.54,0.87,3.50,Tablet,Paid
+3838,Student_365,18,Delhi,"NEET Physics Crash Course","Prateek Maheshwari",3499,2024-03-04,18.86,1.00,2.70,Mobile,Paid
+2150,Student_366,16,Chandigarh,"Biology NEET Ultimate","Prateek Maheshwari",2999,2024-03-31,19.90,0.67,2.70,Mobile,Paid
+8560,Student_367,20,Bhopal,"Class 10 Science Foundation","Rohit Mishra",3001,2024-04-26,27.12,1.00,4.70,Mobile,Paid
+2931,Student_368,19,Delhi,"Mathematics for JEE Mains","Anjali Sharma",1999,2024-12-19,19.97,0.74,3.70,Mobile,Paid
+2664,Student_369,16,Bhopal,"Class 10 Science Foundation","Rohit Mishra",3999,2024-09-23,12.50,0.69,3.30,Tablet,Refunded
+2081,Student_370,18,Chandigarh,"NEET Physics Crash Course","Amit Gupta",3999,2024-11-05,19.41,1.00,3.70,Mobile,Paid
+1512,Student_371,19,Varanasi,"Class 12 Board Physics","Prateek Maheshwari",3999,2024-06-21,28.40,0.43,3.30,Laptop,Paid
+8805,Student_372,17,Unknown,"Physics Wallah Rank Booster","Amit Gupta",3001,2024-02-16,31.71,1.00,3.70,Unknown,Paid
+6237,Student_373,16,Mumbai,"Physics Wallah Rank Booster","Vivek Singh",3999,2024-05-19,31.61,0.58,4.60,Unknown,Paid
+1559,Student_374,16,Mumbai,"Biology NEET Ultimate","Alakh Pandey",2499,2024-09-02,29.24,0.35,4.00,Mobile,Paid
+4672,Student_375,16,Patna,"NEET Physics Crash Course","Alakh Pandey",3499,2024-05-28,23.32,0.81,4.20,Mobile,Refunded
+8404,Student_376,19,Unknown,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-09-02,29.05,0.56,3.40,Mobile,Paid
+4343,Student_377,20,Lucknow,"Biology NEET Ultimate","Anjali Sharma",3001,2024-01-05,24.58,1.00,4.30,Tablet,Pending
+5070,Student_378,16,Patna,"NEET Physics Crash Course","Amit Gupta",2499,2024-07-02,26.13,0.54,4.20,Unknown,Paid
+1580,Student_379,17,Kota,"Organic Chemistry Mastery","Anjali Sharma",2999,2024-01-20,15.61,0.73,2.80,Mobile,Paid
+8004,Student_380,16,Unknown,"JEE Advanced Mechanics","Rohit Mishra",2999,2024-02-15,25.44,0.29,3.90,Laptop,Paid
+9130,Student_381,16,Delhi,"Biology NEET Ultimate","Alakh Pandey",3999,2024-01-12,28.79,0.85,3.10,Mobile,Paid
+4147,Student_382,19,Bhopal,"Biology NEET Ultimate","Anjali Sharma",1999,2024-03-10,28.41,0.46,4.50,Unknown,Paid
+5249,Student_383,17,Lucknow,"Mathematics for JEE Mains","Anjali Sharma",2999,2024-01-17,12.12,0.82,3.60,Mobile,Paid
+2679,Student_384,17,Unknown,"Class 10 Science Foundation","Alakh Pandey",1999,2024-05-26,25.96,0.54,5.00,Unknown,Refunded
+4506,Student_385,17,Chandigarh,"Organic Chemistry Mastery","Amit Gupta",3499,2024-06-02,10.56,0.14,2.70,Mobile,Pending
+8253,Student_386,18,Kota,"Mathematics for JEE Mains","Alakh Pandey",1999,2024-10-30,26.74,0.68,3.70,Laptop,Paid
+3744,Student_387,17,Chandigarh,"NEET Physics Crash Course","Anjali Sharma",3499,2024-04-17,17.99,0.67,4.20,Mobile,Paid
+6188,Student_388,19,Mumbai,"NEET Physics Crash Course","Amit Gupta",2499,2024-08-23,42.06,0.87,4.40,Laptop,Paid
+3141,Student_389,17,Mumbai,"NEET Physics Crash Course","Amit Gupta",2499,2024-11-03,26.19,1.00,3.30,Laptop,Paid
+7617,Student_390,19,Patna,"Class 12 Board Physics","Alakh Pandey",3001,2024-12-17,33.01,1.00,3.70,Mobile,Paid
+3479,Student_391,18,Delhi,"NEET Physics Crash Course","Anjali Sharma",3001,2024-03-10,46.11,0.87,4.50,Laptop,Paid
+7484,Student_392,16,Lucknow,"Class 10 Science Foundation","Rohit Mishra",3999,2024-07-01,16.83,0.72,3.10,Tablet,Paid
+8421,Student_393,17,Indore,"Organic Chemistry Mastery","Anjali Sharma",2999,2024-09-06,29.36,0.29,3.10,Mobile,Paid
+5452,Student_394,20,Kota,"Physics Wallah Rank Booster","Prateek Maheshwari",3999,2024-08-15,13.14,0.70,3.90,Mobile,Paid
+6881,Student_395,20,Kota,"JEE Advanced Mechanics","Vivek Singh",3499,2024-04-11,28.45,0.70,3.80,Laptop,Paid
+7665,Student_396,18,Unknown,"Class 10 Science Foundation","Rohit Mishra",3999,2024-03-15,42.66,0.60,3.20,Laptop,Paid
+3849,Student_397,18,Patna,"Class 10 Science Foundation","Amit Gupta",1999,2024-08-03,25.49,0.81,3.20,Mobile,Paid
+8390,Student_398,20,Mumbai,"Class 12 Board Physics","Rohit Mishra",3499,2024-07-21,16.14,0.93,3.20,Tablet,Paid
+7905,Student_399,18,Patna,"Physics Wallah Rank Booster","Amit Gupta",3001,2024-07-10,24.09,0.45,4.40,Laptop,Paid
+3489,Student_400,16,Bhopal,"Physics Wallah Rank Booster","Amit Gupta",2499,2024-09-05,45.46,0.44,4.10,Laptop,Paid
+5611,Student_401,20,Unknown,"JEE Advanced Mechanics","Rohit Mishra",3001,2024-08-29,32.71,0.62,4.60,Unknown,Paid
+3839,Student_402,17,Unknown,"JEE Advanced Mechanics","Amit Gupta",2999,2024-06-27,15.95,0.50,3.70,Tablet,Paid
+9527,Student_403,18,Lucknow,"Physics Wallah Rank Booster","Amit Gupta",3499,2024-08-06,39.55,0.24,3.70,Tablet,Paid
+6878,Student_404,16,Delhi,"NEET Physics Crash Course","Prateek Maheshwari",3499,2024-03-22,8.45,0.40,2.70,Mobile,Paid
+7303,Student_405,16,Varanasi,"Class 10 Science Foundation","Anjali Sharma",1999,2024-04-01,46.37,0.34,2.60,Tablet,Paid
+1851,Student_406,17,Jaipur,"Mathematics for JEE Mains","Anjali Sharma",2999,2024-06-23,33.56,0.95,3.20,Mobile,Paid
+2687,Student_407,19,Jaipur,"JEE Advanced Mechanics","Vivek Singh",2499,2024-08-26,42.64,1.00,4.80,Unknown,Paid
+7833,Student_408,17,Unknown,"Class 12 Board Physics","Vivek Singh",3499,2024-09-16,8.52,0.38,3.80,Tablet,Paid
+3427,Student_409,17,Patna,"Class 12 Board Physics","Prateek Maheshwari",3499,2024-12-30,26.69,0.79,3.20,Laptop,Paid
+5000,Student_410,17,Bhopal,"JEE Advanced Mechanics","Vivek Singh",1999,2024-06-11,23.66,0.87,3.50,Unknown,Paid
+6052,Student_411,18,Lucknow,"Physics Wallah Rank Booster","Rohit Mishra",3999,2024-02-17,14.93,0.28,4.00,Mobile,Refunded
+3738,Student_412,18,Indore,"Organic Chemistry Mastery","Alakh Pandey",2499,2024-11-24,12.04,0.69,4.10,Unknown,Paid
+6732,Student_413,18,Jaipur,"Mathematics for JEE Mains","Alakh Pandey",3001,2024-11-23,30.07,1.00,2.90,Mobile,Pending
+6387,Student_414,18,Lucknow,"Mathematics for JEE Mains","Alakh Pandey",2999,2024-04-25,25.49,0.82,4.90,Unknown,Paid
+9002,Student_415,20,Unknown,"JEE Advanced Mechanics","Prateek Maheshwari",3499,2024-12-02,38.00,0.59,3.90,Mobile,Paid
+6536,Student_416,18,Delhi,"NEET Physics Crash Course","Prateek Maheshwari",3499,2024-12-02,19.97,0.51,2.80,Tablet,Paid
+4913,Student_417,16,Chandigarh,"Organic Chemistry Mastery","Amit Gupta",3001,2024-08-12,23.58,0.14,4.70,Laptop,Paid
+2066,Student_418,17,Bhopal,"Mathematics for JEE Mains","Alakh Pandey",2499,2024-12-17,11.18,0.77,2.70,Mobile,Paid
+8723,Student_419,17,Mumbai,"JEE Advanced Mechanics","Rohit Mishra",3999,2024-11-23,40.41,1.00,4.80,Unknown,Paid
+5380,Student_420,17,Lucknow,"Class 12 Board Physics","Vivek Singh",3499,2024-05-26,25.70,0.45,5.00,Mobile,Paid
+5107,Student_421,17,Delhi,"Mathematics for JEE Mains","Rohit Mishra",2499,2024-03-03,32.23,0.17,4.30,Mobile,Paid
+6726,Student_422,19,Indore,"Biology NEET Ultimate","Vivek Singh",3001,2024-10-20,32.58,0.48,4.40,Mobile,Paid
+4373,Student_423,17,Varanasi,"Organic Chemistry Mastery","Alakh Pandey",1999,2024-11-18,39.59,0.87,3.30,Unknown,Paid
+9945,Student_424,18,Mumbai,"Organic Chemistry Mastery","Alakh Pandey",3999,2024-11-20,16.69,0.54,4.90,Laptop,Paid
+3082,Student_425,18,Unknown,"Biology NEET Ultimate","Alakh Pandey",2999,2024-01-13,31.98,0.44,3.80,Tablet,Paid
+9967,Student_426,17,Varanasi,"Class 10 Science Foundation","Prateek Maheshwari",3499,2024-07-07,24.75,0.65,3.70,Laptop,Paid
+7748,Student_427,19,Indore,"Class 12 Board Physics","Vivek Singh",2499,2024-10-13,46.06,0.71,4.80,Mobile,Refunded
+1417,Student_428,18,Delhi,"Biology NEET Ultimate","Prateek Maheshwari",1999,2024-07-26,16.66,0.30,4.90,Unknown,Pending
+9306,Student_429,17,Jaipur,"Physics Wallah Rank Booster","Prateek Maheshwari",2999,2024-04-23,36.71,0.60,4.60,Laptop,Paid
+9808,Student_430,19,Varanasi,"Physics Wallah Rank Booster","Anjali Sharma",2499,2024-01-22,28.50,0.53,3.30,Mobile,Paid
+4974,Student_431,18,Unknown,"JEE Advanced Mechanics","Rohit Mishra",2499,2024-12-14,27.98,0.49,4.90,Tablet,Refunded
+4267,Student_432,18,Mumbai,"Organic Chemistry Mastery","Rohit Mishra",2999,2024-08-01,25.54,0.40,4.10,Tablet,Paid
+1825,Student_433,18,Patna,"Class 10 Science Foundation","Amit Gupta",1999,2024-06-19,38.47,0.89,4.80,Tablet,Paid
+8668,Student_434,18,Kota,"Class 10 Science Foundation","Prateek Maheshwari",3001,2024-11-18,27.64,0.49,4.20,Mobile,Pending
+6745,Student_435,19,Lucknow,"Mathematics for JEE Mains","Vivek Singh",1999,2024-02-23,9.76,0.15,3.70,Unknown,Paid
+1412,Student_436,16,Jaipur,"Mathematics for JEE Mains","Anjali Sharma",3999,2024-10-24,37.20,0.72,3.40,Laptop,Paid
+8543,Student_437,17,Varanasi,"Biology NEET Ultimate","Anjali Sharma",3499,2024-11-15,35.36,0.83,3.90,Tablet,Paid
+8587,Student_438,16,Chandigarh,"Class 10 Science Foundation","Rohit Mishra",2999,2024-05-05,30.87,0.45,4.50,Mobile,Paid
+1728,Student_439,19,Lucknow,"Biology NEET Ultimate","Prateek Maheshwari",3001,2024-10-03,13.72,0.51,3.30,Mobile,Refunded
+8164,Student_440,17,Patna,"Class 12 Board Physics","Amit Gupta",2999,2024-07-22,15.27,0.49,3.90,Laptop,Paid
+9867,Student_441,20,Indore,"Biology NEET Ultimate","Prateek Maheshwari",2999,2024-07-12,6.23,0.56,3.40,Tablet,Paid
+6988,Student_442,18,Kota,"Mathematics for JEE Mains","Alakh Pandey",1999,2024-06-17,29.60,0.93,4.50,Mobile,Paid
+3504,Student_443,19,Delhi,"Organic Chemistry Mastery","Prateek Maheshwari",3499,2024-05-31,11.50,0.62,3.70,Laptop,Paid
+3967,Student_444,18,Patna,"Biology NEET Ultimate","Alakh Pandey",3999,2024-02-04,7.81,0.86,2.70,Unknown,Paid
+3786,Student_445,19,Patna,"NEET Physics Crash Course","Alakh Pandey",2499,2024-07-02,37.75,0.41,3.70,Unknown,Paid
+2122,Student_446,20,Indore,"Organic Chemistry Mastery","Amit Gupta",2499,2024-10-12,32.68,0.55,2.70,Unknown,Refunded
+5079,Student_447,17,Bhopal,"Class 10 Science Foundation","Vivek Singh",2999,2024-02-26,21.67,0.89,3.70,Tablet,Paid
+2571,Student_448,18,Indore,"Class 10 Science Foundation","Rohit Mishra",3499,2024-08-09,23.66,0.45,2.80,Laptop,Paid
+6073,Student_449,17,Bhopal,"Biology NEET Ultimate","Prateek Maheshwari",3001,2024-10-29,0.93,0.90,2.80,Laptop,Paid
+6104,Student_450,16,Bhopal,"Organic Chemistry Mastery","Alakh Pandey",1999,2024-06-11,34.17,0.49,4.90,Mobile,Paid
+3143,Student_451,18,Jaipur,"Mathematics for JEE Mains","Prateek Maheshwari",3499,2024-01-19,25.49,0.57,4.70,Mobile,Refunded
+7806,Student_452,18,Jaipur,"Mathematics for JEE Mains","Vivek Singh",3499,2024-09-20,28.30,1.00,3.60,Mobile,Paid
+8357,Student_453,17,Mumbai,"Physics Wallah Rank Booster","Rohit Mishra",1999,2024-10-08,0.11,0.54,5.00,Laptop,Paid
+4440,Student_454,18,Varanasi,"Class 10 Science Foundation","Vivek Singh",2999,2024-04-22,34.78,0.69,2.50,Mobile,Paid
+4766,Student_455,20,Varanasi,"JEE Advanced Mechanics","Rohit Mishra",3499,2024-11-22,17.47,0.80,3.70,Laptop,Paid
+6644,Student_456,18,Unknown,"Physics Wallah Rank Booster","Anjali Sharma",2499,2024-01-30,11.24,0.71,4.00,Laptop,Paid
+3914,Student_457,19,Delhi,"Mathematics for JEE Mains","Rohit Mishra",1999,2024-05-14,21.60,0.71,3.60,Unknown,Paid
+5968,Student_458,19,Varanasi,"Organic Chemistry Mastery","Amit Gupta",3001,2024-03-07,19.04,0.64,3.50,Mobile,Paid
+6917,Student_459,18,Jaipur,"Class 12 Board Physics","Vivek Singh",3999,2024-03-05,35.74,0.32,3.60,Unknown,Refunded
+9787,Student_460,18,Mumbai,"Mathematics for JEE Mains","Alakh Pandey",2999,2024-10-18,20.80,0.74,3.50,Tablet,Paid
+1728,Student_461,19,Mumbai,"Organic Chemistry Mastery","Anjali Sharma",1999,2024-01-25,38.63,0.47,4.30,Tablet,Pending
+2365,Student_462,18,Bhopal,"Physics Wallah Rank Booster","Amit Gupta",3999,2024-02-06,28.30,0.84,2.80,Tablet,Paid
+5492,Student_463,20,Unknown,"Class 10 Science Foundation","Prateek Maheshwari",3999,2024-01-01,33.94,0.99,3.00,Laptop,Paid
+1698,Student_464,16,Indore,"Mathematics for JEE Mains","Vivek Singh",3001,2024-02-06,24.98,0.20,3.70,Laptop,Paid
+8186,Student_465,17,Delhi,"Biology NEET Ultimate","Alakh Pandey",3499,2024-05-20,37.72,0.99,3.20,Laptop,Paid
+1395,Student_466,17,Bhopal,"Organic Chemistry Mastery","Rohit Mishra",3001,2024-08-19,13.46,0.55,3.80,Mobile,Paid
+8400,Student_467,16,Indore,"Class 10 Science Foundation","Alakh Pandey",3499,2024-05-15,26.14,0.62,2.80,Unknown,Paid
+9082,Student_468,18,Varanasi,"Class 12 Board Physics","Prateek Maheshwari",3499,2024-07-06,21.04,0.42,4.70,Laptop,Paid
+5171,Student_469,19,Unknown,"Class 12 Board Physics","Anjali Sharma",1999,2024-05-07,38.97,0.70,3.20,Unknown,Refunded
+5360,Student_470,19,Bhopal,"JEE Advanced Mechanics","Anjali Sharma",1999,2024-07-19,39.99,0.67,2.90,Unknown,Paid
+3502,Student_471,16,Lucknow,"Organic Chemistry Mastery","Vivek Singh",2999,2024-05-06,25.00,0.92,4.20,Unknown,Paid
+1717,Student_472,20,Varanasi,"Physics Wallah Rank Booster","Anjali Sharma",3499,2024-09-13,12.08,0.46,2.60,Mobile,Refunded
+3782,Student_473,18,Indore,"JEE Advanced Mechanics","Vivek Singh",3999,2024-06-12,29.27,1.00,4.00,Mobile,Paid
+5946,Student_474,19,Delhi,"JEE Advanced Mechanics","Vivek Singh",2499,2024-02-04,25.49,0.82,4.20,Tablet,Paid
+6486,Student_475,20,Indore,"NEET Physics Crash Course","Vivek Singh",2999,2024-07-12,41.26,0.67,3.00,Tablet,Paid
+9335,Student_476,18,Bhopal,"Mathematics for JEE Mains","Rohit Mishra",1999,2024-07-09,20.27,0.60,2.60,Unknown,Paid
+5980,Student_477,17,Bhopal,"Organic Chemistry Mastery","Amit Gupta",3001,2024-04-13,24.69,0.57,3.40,Tablet,Paid
+8266,Student_478,19,Patna,"JEE Advanced Mechanics","Vivek Singh",2999,2024-01-23,18.19,0.59,2.70,Unknown,Refunded
+5491,Student_479,17,Delhi,"NEET Physics Crash Course","Vivek Singh",2999,2024-09-21,15.98,0.69,2.80,Mobile,Paid
+8192,Student_480,16,Chandigarh,"Physics Wallah Rank Booster","Amit Gupta",2999,2024-10-16,32.37,0.60,3.10,Mobile,Paid
+6588,Student_481,19,Varanasi,"Class 10 Science Foundation","Alakh Pandey",2999,2024-09-16,23.41,0.49,3.20,Mobile,Paid
+8651,Student_482,17,Mumbai,"Biology NEET Ultimate","Vivek Singh",2499,2024-12-23,25.42,0.69,3.80,Laptop,Paid
+4636,Student_483,19,Delhi,"Biology NEET Ultimate","Rohit Mishra",3001,2024-03-15,14.96,0.44,3.70,Unknown,Paid
+2167,Student_484,17,Mumbai,"Organic Chemistry Mastery","Anjali Sharma",3001,2024-12-20,33.56,0.73,4.00,Mobile,Paid
+2062,Student_485,20,Delhi,"JEE Advanced Mechanics","Anjali Sharma",3001,2024-03-12,34.58,0.59,2.90,Unknown,Paid
+3156,Student_486,17,Delhi,"Biology NEET Ultimate","Prateek Maheshwari",3499,2024-09-15,22.91,0.82,2.90,Tablet,Paid
+8860,Student_487,18,Indore,"Mathematics for JEE Mains","Prateek Maheshwari",3999,2024-07-06,37.68,0.90,4.70,Tablet,Paid
+6161,Student_488,19,Delhi,"Biology NEET Ultimate","Anjali Sharma",3001,2024-06-21,25.49,0.90,3.90,Mobile,Paid
+6305,Student_489,16,Patna,"Biology NEET Ultimate","Anjali Sharma",2999,2024-10-16,32.80,0.73,4.70,Unknown,Paid
+7541,Student_490,18,Chandigarh,"Biology NEET Ultimate","Rohit Mishra",2999,2024-02-14,8.77,0.76,3.40,Mobile,Paid
+5729,Student_491,18,Bhopal,"Class 12 Board Physics","Amit Gupta",3001,2024-03-01,28.53,0.57,4.00,Tablet,Paid
+8330,Student_492,18,Kota,"NEET Physics Crash Course","Prateek Maheshwari",3001,2024-03-23,22.29,0.82,3.80,Mobile,Refunded
+6334,Student_493,16,Mumbai,"JEE Advanced Mechanics","Amit Gupta",2999,2024-05-02,26.56,0.85,3.30,Unknown,Paid
+9924,Student_494,18,Bhopal,"Mathematics for JEE Mains","Rohit Mishra",3499,2024-12-23,26.11,0.26,3.70,Tablet,Paid
+5330,Student_495,18,Kota,"JEE Advanced Mechanics","Anjali Sharma",1999,2024-01-16,26.26,0.74,3.80,Laptop,Paid
+9010,Student_496,19,Chandigarh,"Class 12 Board Physics","Vivek Singh",1999,2024-03-06,31.16,0.99,3.00,Tablet,Paid
+7801,Student_497,18,Chandigarh,"Organic Chemistry Mastery","Amit Gupta",3001,2024-05-24,19.35,0.56,3.30,Laptop,Refunded
+5846,Student_498,17,Mumbai,"Organic Chemistry Mastery","Anjali Sharma",2499,2024-06-10,30.69,0.51,4.50,Mobile,Paid
+7731,Student_499,17,Mumbai,"Organic Chemistry Mastery","Anjali Sharma",3001,2024-08-21,37.33,0.55,4.80,Mobile,Refunded
+1154,Student_304,17,Varanasi,"Biology NEET Ultimate","Vivek Singh",2499,2024-06-18,16.53,0.52,3.90,Laptop,Refunded
+3491,Student_340,17,Mumbai,"Biology NEET Ultimate","Prateek Maheshwari",3499,2024-04-01,26.87,0.96,3.20,Laptop,Paid
+9226,Student_47,18,Patna,"Physics Wallah Rank Booster","Anjali Sharma",2999,2024-09-24,14.47,0.81,4.10,Tablet,Paid
+8916,Student_67,17,Varanasi,"Class 10 Science Foundation","Alakh Pandey",3001,2024-11-27,7.59,0.59,3.10,Laptop,Paid
+5491,Student_479,17,Delhi,"NEET Physics Crash Course","Vivek Singh",2999,2024-09-21,15.98,0.69,2.80,Mobile,Paid
+2062,Student_485,20,Delhi,"JEE Advanced Mechanics","Anjali Sharma",3001,2024-03-12,34.58,0.59,2.90,Unknown,Paid
+8206,Student_310,18,Varanasi,"JEE Advanced Mechanics","Anjali Sharma",3001,2024-07-14,20.82,1.00,4.60,Unknown,Paid
+8734,Student_31,19,Varanasi,"Organic Chemistry Mastery","Alakh Pandey",3499,2024-02-10,29.27,0.70,3.60,Mobile,Paid
+2218,Student_249,16,Indore,"Mathematics for JEE Mains","Anjali Sharma",1999,2024-02-10,25.86,0.70,3.70,Tablet,Paid
+7184,Student_90,19,Unknown,"Biology NEET Ultimate","Anjali Sharma",2999,2024-03-07,49.67,0.79,4.90,Tablet,Paid
+5780,Student_322,19,Unknown,"Organic Chemistry Mastery","Anjali Sharma",2999,2024-06-13,37.91,0.76,2.70,Laptop,Paid
+8392,Student_168,17,Patna,"Biology NEET Ultimate","Alakh Pandey",3499,2024-03-30,8.11,0.23,3.80,Unknown,Paid
+9755,Student_119,19,Bhopal,"JEE Advanced Mechanics","Rohit Mishra",1999,2024-06-25,12.12,0.73,3.60,Tablet,Paid
+7863,Student_66,17,Jaipur,"Class 12 Board Physics","Anjali Sharma",2499,2024-12-08,23.15,0.88,2.90,Tablet,Refunded
+2409,Student_305,18,Mumbai,"JEE Advanced Mechanics","Anjali Sharma",3499,2024-05-03,30.39,0.38,4.60,Tablet,Paid
+9800,Student_189,18,Varanasi,"Class 10 Science Foundation","Prateek Maheshwari",2499,2024-03-24,16.81,0.60,3.70,Mobile,Paid
+8668,Student_434,18,Kota,"Class 10 Science Foundation","Prateek Maheshwari",3001,2024-11-18,27.64,0.49,4.20,Mobile,Pending
+4394,Student_289,18,Varanasi,"JEE Advanced Mechanics","Rohit Mishra",3999,2024-09-16,25.49,0.33,4.50,Tablet,Paid
+8526,Student_142,17,Varanasi,"Organic Chemistry Mastery","Rohit Mishra",3001,2024-02-10,26.52,0.89,3.70,Tablet,Paid
+5413,Student_146,18,Mumbai,"JEE Advanced Mechanics","Anjali Sharma",1999,2024-11-02,37.92,0.61,3.20,Unknown,Paid
