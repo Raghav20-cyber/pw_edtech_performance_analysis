@@ -1,4 +1,4 @@
-<img width="1318" height="787" alt="Enrollment   Retention Overview" src="https://github.com/user-attachments/assets/96c565bf-3269-4c79-bb3b-e6d30acb678f" /># EdTech Performance Analysis Dashboard (Power BI + SQL)
+# EdTech Performance Analysis Dashboard (Power BI + SQL)
 
 # Project Overview
 
