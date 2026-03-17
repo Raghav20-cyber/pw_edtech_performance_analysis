@@ -1,7 +1,14 @@
 #  EdTech Performance Analysis Dashboard (Power BI + SQL)
 
-# Project Overview 
-Built an interactive Power BI dashboard to analyze revenue, student behavior, and course performance for an EdTech platform.
+# Built an interactive Power BI dashboard to analyze revenue, student behavior, and course performance for an EdTech platform.
+
+# Dashboard Preview
+<img width="1312" height="784" alt="Overall Performance" src="https://github.com/user-attachments/assets/f8ee1db2-8131-4f0b-9c00-3ee517ee335d" />
+<img width="1318" height="787" alt="Enrollment   Retention Overview" src="https://github.com/user-attachments/assets/41ee39b1-f7f3-4a15-8ce2-8eeb40e48e94" />
+<img width="1316" height="797" alt="Instructor   Students Analytics" src="https://github.com/user-attachments/assets/e6144adb-cb39-47b5-89f0-144cafbc2710" />
+
+# Project Overview
+This project analyzes performance data of an EdTech platform to uncover insights related to revenue, enrollments, course performance, and student behavior.
 
 # Focus:
 Business insights, retention analysis, and revenue optimization
@@ -32,20 +39,21 @@ The company wants to understand:
 1. Organic Chemistry Mastery generates the highest revenue
 2. NEET Physics Crash Course has highest refunds
 3. Majority students are aged 17–19
-4. Top cities: Mumbai and Varanasi
+4. Top cities: Mumbai and Varanasi.
+
+# Business Impact
+This dashboard can help an EdTech company:
+
+- Identify high-revenue courses
+- Reduce refund rates
+- Improve student retention
+- Optimize instructor allocation
 
 # Business Recommendations
 
 1. Improve high refund courses
 2. Focus on high-performing cities
 3. Target core age group (17–19)
-   
-# Dashboard Preview
-<img width="1312" height="784" alt="Overall Performance" src="https://github.com/user-attachments/assets/f8ee1db2-8131-4f0b-9c00-3ee517ee335d" />
-<img width="1318" height="787" alt="Enrollment   Retention Overview" src="https://github.com/user-attachments/assets/41ee39b1-f7f3-4a15-8ce2-8eeb40e48e94" />
-<img width="1316" height="797" alt="Instructor   Students Analytics" src="https://github.com/user-attachments/assets/e6144adb-cb39-47b5-89f0-144cafbc2710" />
-
-
 
 # Skills Demonstrated
 
