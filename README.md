@@ -1,9 +1,9 @@
 #  EdTech Performance Analysis Dashboard (Power BI + SQL)
 # Problem → Solution → Impact
 
-🔹 Problem: EdTech company facing revenue leakage due to refunds and unclear performance metrics  
-🔹 Solution: Built an interactive Power BI dashboard with SQL analysis  
-🔹 Impact: Helps identify high-performing courses, reduce refunds, and improve decision-making
+- Problem: EdTech company facing revenue leakage due to refunds and unclear performance metrics  
+- Solution: Built an interactive Power BI dashboard with SQL analysis  
+- Impact: Helps identify high-performing courses, reduce refunds, and improve decision-making
 
 # Built an interactive Power BI dashboard to analyze revenue, student behavior, and course performance for an EdTech platform.
 
