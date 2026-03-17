@@ -7,15 +7,15 @@
 <img width="1318" height="787" alt="Enrollment   Retention Overview" src="https://github.com/user-attachments/assets/41ee39b1-f7f3-4a15-8ce2-8eeb40e48e94" />
 <img width="1316" height="797" alt="Instructor   Students Analytics" src="https://github.com/user-attachments/assets/e6144adb-cb39-47b5-89f0-144cafbc2710" />
 
+# Project Overview
+This project analyzes performance data of an EdTech platform to uncover insights related to revenue, enrollments, course performance, and student behavior.
+
 # Problem → Solution → Impact
 
 - Problem: EdTech company facing revenue leakage due to refunds and unclear performance metrics  
 - Solution: Built an interactive Power BI dashboard with SQL analysis  
 - Impact: Helps identify high-performing courses, reduce refunds, and improve decision-making
   
-# Project Overview
-This project analyzes performance data of an EdTech platform to uncover insights related to revenue, enrollments, course performance, and student behavior.
-
 # Focus:
 Business insights, retention analysis, and revenue optimization
 
