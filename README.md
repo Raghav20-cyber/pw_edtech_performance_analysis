@@ -1,4 +1,4 @@
-# EdTech Performance Analysis Dashboard (Power BI + SQL)
+<img width="1318" height="787" alt="Enrollment   Retention Overview" src="https://github.com/user-attachments/assets/96c565bf-3269-4c79-bb3b-e6d30acb678f" /># EdTech Performance Analysis Dashboard (Power BI + SQL)
 
 # Project Overview
 
@@ -40,14 +40,8 @@ The company wants to understand:
    
 # Dashboard Preview
 <img width="1312" height="784" alt="Overall Performance" src="https://github.com/user-attachments/assets/f8ee1db2-8131-4f0b-9c00-3ee517ee335d" />
- Overall Performance Dashboard
-![Dashboard](screenshots/dashboard1.png)
-
- Enrollment & Retention Analysis
-![Dashboard](screenshots/dashboard2.png)
-
- Instructor & Student Analytics
-![Dashboard](screenshots/dashboard3.png)
+<img width="1318" height="787" alt="Enrollment   Retention Overview" src="https://github.com/user-attachments/assets/41ee39b1-f7f3-4a15-8ce2-8eeb40e48e94" />
+<img width="1316" height="797" alt="Instructor   Students Analytics" src="https://github.com/user-attachments/assets/e6144adb-cb39-47b5-89f0-144cafbc2710" />
 
 
 
@@ -55,6 +49,6 @@ The company wants to understand:
 
 1. Data Analysis
 2. SQL
-3 Excel
-* Power BI
-* Business Insights
+3. Excel
+4. Power BI
+5. Business Insights
