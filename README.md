@@ -44,10 +44,10 @@ The company wants to understand:
 # Business Impact
 This dashboard can help an EdTech company:
 
-- Identify high-revenue courses
-- Reduce refund rates
-- Improve student retention
-- Optimize instructor allocation
+1. Identify high-revenue courses
+2. Reduce refund rates
+3. Improve student retention
+4. Optimize instructor allocation
 
 # Business Recommendations
 
