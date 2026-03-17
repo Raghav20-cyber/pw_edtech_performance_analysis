@@ -1,8 +1,10 @@
-# EdTech Performance Analysis Dashboard (Power BI + SQL)
+#  EdTech Performance Analysis Dashboard (Power BI + SQL)
 
-# Project Overview
+# Project Overview 
+Built an interactive Power BI dashboard to analyze revenue, student behavior, and course performance for an EdTech platform.
 
-This project analyzes performance data of an EdTech platform to uncover insights related to revenue, enrollments, course performance, and student behavior.
+# Focus:
+Business insights, retention analysis, and revenue optimization
 
 # Business Problem
 The company wants to understand:
